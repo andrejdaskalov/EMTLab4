@@ -2,7 +2,7 @@
 
 # EMT Lab: DDD E-Shop for Car Parts
 
-This repository contains a laboratory exercise for the subject "EMT". The goal of this exercise is to implement a core domain for an e-shop for buying car parts using Java Spring and Domain-Driven Design (DDD) principles.
+This repository contains a laboratory exercise for the subject EMT (E-Commerce). The goal of this exercise is to implement a core domain for an e-shop for buying car parts using Java Spring and Domain-Driven Design (DDD) principles.
 
 
 The core domain follows the DDD principles of:
